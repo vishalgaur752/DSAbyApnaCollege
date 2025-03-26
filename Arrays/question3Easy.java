@@ -1,5 +1,5 @@
 
-public class printSubArr {
+public class question3Easy {
 
     public static void printSubArray(int arr[]) {
         int max = Integer.MIN_VALUE;
